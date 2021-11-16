@@ -1,0 +1,16 @@
+
+
+
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+a{
+    font-size: 20px;
+    width: 400px;
+    color: black;
+    background-color: white;
+    border-radius:30px ;
+}
+
